@@ -1,0 +1,53 @@
+1. Greedy & Sorting (9 Problems)
+
+Swap and Delete (Problem 1)
+Helmets in Night Light (Problem 3)
+Monsters (Problem 5)
+Basketball Together (Problem 11)
+Shoe Shuffling (Problem 14)
+Divan and a New Project (Problem 19)
+Numbers Box (Problem 24)
+Buying Torches (Problem 26)
+Bogosort (Problem 30)
+
+
+2. Math & Number Theory (6 Problems)
+
+Raspberries (Problem 2)
+Olya and Game with Arrays (Problem 4)
+Minimum LCM (Problem 9)
+Beautiful Array (Problem 12)
+Different Divisors (Problem 23)
+Fair Numbers (Problem 27)
+
+
+3. Strings & Simulation (5 Problems)
+
+Distinct Split (Problem 8)
+Traffic Light (Problem 10)
+Red Versus Blue (Problem 16)
+Double-ended Strings (Problem 21)
+Reverse a Substring (Problem 31)
+
+
+4. Sliding Window & Two Pointers (3 Problems)
+
+Ski Resort (Problem 6)
+Luke is a Foodie (Problem 13)
+Black and White Stripe (Problem 15)
+
+
+5. Bitwise Operations (3 Problems)
+
+Roof Construction (Problem 17)
+MEXor Mixup (Problem 20)
+Johnny and Ancient Computer (Problem 29)
+
+
+6. Constructive & Properties (5 Problems)
+
+Array merging (Problem 7)
+Triangles on a Rectangle (Problem 18)
+Add and Divide (Problem 22)
+Valerii Against Everyone (Problem 25)
+Move Brackets (Problem 28)
